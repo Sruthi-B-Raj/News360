@@ -1,0 +1,23 @@
+.title-underline {
+    width: 200px;
+    height: 10px;
+    margin: 0 auto
+}
+#main-footer{
+    background:#262F36 ;
+    color: white;
+    padding: 4rem 0;
+    font-size: 0.8rem;
+}
+
+#main-footer h5, a{
+    color: #718FA9;
+    text-align: left;
+}
+#main-footer #lin{
+    font-size: 22px;
+    padding: 0.7rem;
+}
+#main-footer h6{
+    text-transform: none;
+}

@@ -1,0 +1,384 @@
+E:\News App\RecommendAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\News App\RecommendAPI\bin\Debug\netcoreapp3.1\appsettings.json
+E:\News App\RecommendAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\News App\RecommendAPI\bin\Debug\netcoreapp3.1\RecommendAPI.exe
+E:\News App\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.csprojAssemblyReference.cache
+E:\News App\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.AssemblyInfoInputs.cache
+E:\News App\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.AssemblyInfo.cs
+E:\News App\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.RazorTargetAssemblyInfo.cache
+E:\News App\RecommendAPI\obj\Debug\netcoreapp3.1\staticwebassets\RecommendAPI.StaticWebAssets.Manifest.cache
+E:\News App\RecommendAPI\obj\Debug\netcoreapp3.1\staticwebassets\RecommendAPI.StaticWebAssets.xml
+E:\News App\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\News App\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\News App\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\News App\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\News App\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\News App\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\News App\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\News App\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\News App\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\News App\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\News App\RecommendAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\News App\RecommendAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\News App\RecommendAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\News App\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.csproj.CopyComplete
+E:\News App\RecommendAPI\bin\Debug\netcoreapp3.1\DnsClient.dll
+E:\News App\RecommendAPI\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+E:\News App\RecommendAPI\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+E:\News App\RecommendAPI\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+E:\News App\RecommendAPI\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+E:\News App\RecommendAPI\bin\Debug\netcoreapp3.1\SharpCompress.dll
+E:\News App\RecommendAPI\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+E:\News App\RecommendAPI\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+E:\News App\RecommendAPI\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+E:\News App\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.csproj.CoreCompileInputs.cache
+E:\News App\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\News App\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\News App\RecommendAPI\bin\Debug\netcoreapp3.1\RecommendAPI.deps.json
+E:\News App\RecommendAPI\bin\Debug\netcoreapp3.1\RecommendAPI.runtimeconfig.json
+E:\News App\RecommendAPI\bin\Debug\netcoreapp3.1\RecommendAPI.runtimeconfig.dev.json
+E:\News App\RecommendAPI\bin\Debug\netcoreapp3.1\RecommendAPI.dll
+E:\News App\RecommendAPI\bin\Debug\netcoreapp3.1\RecommendAPI.pdb
+E:\News App\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\News App\RecommendAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\News App\RecommendAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\News App\RecommendAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\News App\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.dll
+E:\News App\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.pdb
+E:\News App\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.genruntimeconfig.cache
+E:\Backend\RecommendAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Backend\RecommendAPI\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Backend\RecommendAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Backend\RecommendAPI\bin\Debug\netcoreapp3.1\RecommendAPI.exe
+E:\Backend\RecommendAPI\bin\Debug\netcoreapp3.1\RecommendAPI.deps.json
+E:\Backend\RecommendAPI\bin\Debug\netcoreapp3.1\RecommendAPI.runtimeconfig.json
+E:\Backend\RecommendAPI\bin\Debug\netcoreapp3.1\RecommendAPI.runtimeconfig.dev.json
+E:\Backend\RecommendAPI\bin\Debug\netcoreapp3.1\RecommendAPI.dll
+E:\Backend\RecommendAPI\bin\Debug\netcoreapp3.1\RecommendAPI.pdb
+E:\Backend\RecommendAPI\bin\Debug\netcoreapp3.1\DnsClient.dll
+E:\Backend\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Backend\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Backend\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Backend\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Backend\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Backend\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Backend\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Backend\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Backend\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Backend\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Backend\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\Backend\RecommendAPI\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+E:\Backend\RecommendAPI\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+E:\Backend\RecommendAPI\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+E:\Backend\RecommendAPI\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+E:\Backend\RecommendAPI\bin\Debug\netcoreapp3.1\SharpCompress.dll
+E:\Backend\RecommendAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\Backend\RecommendAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Backend\RecommendAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Backend\RecommendAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Backend\RecommendAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\Backend\RecommendAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Backend\RecommendAPI\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+E:\Backend\RecommendAPI\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+E:\Backend\RecommendAPI\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+E:\Backend\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.csprojAssemblyReference.cache
+E:\Backend\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.AssemblyInfoInputs.cache
+E:\Backend\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.AssemblyInfo.cs
+E:\Backend\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.csproj.CoreCompileInputs.cache
+E:\Backend\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\Backend\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\Backend\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.RazorTargetAssemblyInfo.cache
+E:\Backend\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.csproj.CopyComplete
+E:\Backend\RecommendAPI\obj\Debug\netcoreapp3.1\staticwebassets\RecommendAPI.StaticWebAssets.Manifest.cache
+E:\Backend\RecommendAPI\obj\Debug\netcoreapp3.1\staticwebassets\RecommendAPI.StaticWebAssets.xml
+E:\Backend\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.dll
+E:\Backend\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.pdb
+E:\Backend\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.genruntimeconfig.cache
+E:\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\appsettings.json
+E:\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\RecommendAPI.exe
+E:\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\RecommendAPI.deps.json
+E:\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\RecommendAPI.runtimeconfig.json
+E:\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\RecommendAPI.runtimeconfig.dev.json
+E:\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\RecommendAPI.dll
+E:\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\RecommendAPI.pdb
+E:\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\DnsClient.dll
+E:\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+E:\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+E:\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+E:\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+E:\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\SharpCompress.dll
+E:\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+E:\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+E:\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+E:\news-app\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.csprojAssemblyReference.cache
+E:\news-app\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.AssemblyInfoInputs.cache
+E:\news-app\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.AssemblyInfo.cs
+E:\news-app\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.csproj.CoreCompileInputs.cache
+E:\news-app\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\news-app\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\news-app\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.RazorTargetAssemblyInfo.cache
+E:\news-app\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.csproj.CopyComplete
+E:\news-app\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\staticwebassets\RecommendAPI.StaticWebAssets.Manifest.cache
+E:\news-app\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\staticwebassets\RecommendAPI.StaticWebAssets.xml
+E:\news-app\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.dll
+E:\news-app\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.pdb
+E:\news-app\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.genruntimeconfig.cache
+E:\xxxxxx\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\xxxxxx\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\appsettings.json
+E:\xxxxxx\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\xxxxxx\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\RecommendAPI.exe
+E:\xxxxxx\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\RecommendAPI.deps.json
+E:\xxxxxx\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\RecommendAPI.runtimeconfig.json
+E:\xxxxxx\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\RecommendAPI.runtimeconfig.dev.json
+E:\xxxxxx\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\RecommendAPI.dll
+E:\xxxxxx\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\RecommendAPI.pdb
+E:\xxxxxx\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\DnsClient.dll
+E:\xxxxxx\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\xxxxxx\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\xxxxxx\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\xxxxxx\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\xxxxxx\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\xxxxxx\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\xxxxxx\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\xxxxxx\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\xxxxxx\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\xxxxxx\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\xxxxxx\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\xxxxxx\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+E:\xxxxxx\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+E:\xxxxxx\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+E:\xxxxxx\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+E:\xxxxxx\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\SharpCompress.dll
+E:\xxxxxx\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\xxxxxx\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\xxxxxx\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\xxxxxx\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\xxxxxx\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\xxxxxx\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\xxxxxx\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+E:\xxxxxx\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+E:\xxxxxx\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+E:\xxxxxx\news-app\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.csprojAssemblyReference.cache
+E:\xxxxxx\news-app\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.AssemblyInfoInputs.cache
+E:\xxxxxx\news-app\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.AssemblyInfo.cs
+E:\xxxxxx\news-app\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.csproj.CoreCompileInputs.cache
+E:\xxxxxx\news-app\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\xxxxxx\news-app\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\xxxxxx\news-app\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.RazorTargetAssemblyInfo.cache
+E:\xxxxxx\news-app\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.csproj.CopyComplete
+E:\xxxxxx\news-app\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\staticwebassets\RecommendAPI.StaticWebAssets.Manifest.cache
+E:\xxxxxx\news-app\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\staticwebassets\RecommendAPI.StaticWebAssets.xml
+E:\xxxxxx\news-app\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.dll
+E:\xxxxxx\news-app\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.pdb
+E:\xxxxxx\news-app\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.genruntimeconfig.cache
+C:\Users\adminvm.adminvm\Desktop\Trial\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\adminvm.adminvm\Desktop\Trial\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\adminvm.adminvm\Desktop\Trial\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\adminvm.adminvm\Desktop\Trial\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\RecommendAPI.exe
+C:\Users\adminvm.adminvm\Desktop\Trial\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\RecommendAPI.deps.json
+C:\Users\adminvm.adminvm\Desktop\Trial\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\RecommendAPI.runtimeconfig.json
+C:\Users\adminvm.adminvm\Desktop\Trial\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\RecommendAPI.runtimeconfig.dev.json
+C:\Users\adminvm.adminvm\Desktop\Trial\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\RecommendAPI.dll
+C:\Users\adminvm.adminvm\Desktop\Trial\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\RecommendAPI.pdb
+C:\Users\adminvm.adminvm\Desktop\Trial\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\adminvm.adminvm\Desktop\Trial\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\adminvm.adminvm\Desktop\Trial\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\adminvm.adminvm\Desktop\Trial\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\adminvm.adminvm\Desktop\Trial\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\adminvm.adminvm\Desktop\Trial\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\adminvm.adminvm\Desktop\Trial\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\adminvm.adminvm\Desktop\Trial\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\adminvm.adminvm\Desktop\Trial\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\adminvm.adminvm\Desktop\Trial\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\adminvm.adminvm\Desktop\Trial\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\adminvm.adminvm\Desktop\Trial\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\adminvm.adminvm\Desktop\Trial\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\adminvm.adminvm\Desktop\Trial\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\adminvm.adminvm\Desktop\Trial\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\adminvm.adminvm\Desktop\Trial\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\adminvm.adminvm\Desktop\Trial\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\adminvm.adminvm\Desktop\Trial\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\adminvm.adminvm\Desktop\Trial\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\adminvm.adminvm\Desktop\Trial\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\adminvm.adminvm\Desktop\Trial\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\adminvm.adminvm\Desktop\Trial\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\adminvm.adminvm\Desktop\Trial\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\adminvm.adminvm\Desktop\Trial\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\Users\adminvm.adminvm\Desktop\Trial\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\Users\adminvm.adminvm\Desktop\Trial\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\Users\adminvm.adminvm\Desktop\Trial\news-app\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.csprojAssemblyReference.cache
+C:\Users\adminvm.adminvm\Desktop\Trial\news-app\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.AssemblyInfoInputs.cache
+C:\Users\adminvm.adminvm\Desktop\Trial\news-app\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.AssemblyInfo.cs
+C:\Users\adminvm.adminvm\Desktop\Trial\news-app\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.csproj.CoreCompileInputs.cache
+C:\Users\adminvm.adminvm\Desktop\Trial\news-app\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\adminvm.adminvm\Desktop\Trial\news-app\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\adminvm.adminvm\Desktop\Trial\news-app\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.RazorTargetAssemblyInfo.cache
+C:\Users\adminvm.adminvm\Desktop\Trial\news-app\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.csproj.CopyComplete
+C:\Users\adminvm.adminvm\Desktop\Trial\news-app\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\staticwebassets\RecommendAPI.StaticWebAssets.Manifest.cache
+C:\Users\adminvm.adminvm\Desktop\Trial\news-app\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\staticwebassets\RecommendAPI.StaticWebAssets.xml
+C:\Users\adminvm.adminvm\Desktop\Trial\news-app\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.dll
+C:\Users\adminvm.adminvm\Desktop\Trial\news-app\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.pdb
+C:\Users\adminvm.adminvm\Desktop\Trial\news-app\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.genruntimeconfig.cache
+C:\Users\adminvm.adminvm\Desktop\deep\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\adminvm.adminvm\Desktop\deep\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\adminvm.adminvm\Desktop\deep\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\adminvm.adminvm\Desktop\deep\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\RecommendAPI.exe
+C:\Users\adminvm.adminvm\Desktop\deep\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\RecommendAPI.deps.json
+C:\Users\adminvm.adminvm\Desktop\deep\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\RecommendAPI.runtimeconfig.json
+C:\Users\adminvm.adminvm\Desktop\deep\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\RecommendAPI.runtimeconfig.dev.json
+C:\Users\adminvm.adminvm\Desktop\deep\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\RecommendAPI.dll
+C:\Users\adminvm.adminvm\Desktop\deep\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\RecommendAPI.pdb
+C:\Users\adminvm.adminvm\Desktop\deep\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\adminvm.adminvm\Desktop\deep\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\adminvm.adminvm\Desktop\deep\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\adminvm.adminvm\Desktop\deep\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\adminvm.adminvm\Desktop\deep\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\adminvm.adminvm\Desktop\deep\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\adminvm.adminvm\Desktop\deep\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\adminvm.adminvm\Desktop\deep\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\adminvm.adminvm\Desktop\deep\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\adminvm.adminvm\Desktop\deep\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\adminvm.adminvm\Desktop\deep\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\adminvm.adminvm\Desktop\deep\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\adminvm.adminvm\Desktop\deep\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\adminvm.adminvm\Desktop\deep\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\adminvm.adminvm\Desktop\deep\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\adminvm.adminvm\Desktop\deep\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\adminvm.adminvm\Desktop\deep\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\adminvm.adminvm\Desktop\deep\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\adminvm.adminvm\Desktop\deep\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\adminvm.adminvm\Desktop\deep\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\adminvm.adminvm\Desktop\deep\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\adminvm.adminvm\Desktop\deep\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\adminvm.adminvm\Desktop\deep\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\adminvm.adminvm\Desktop\deep\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\Users\adminvm.adminvm\Desktop\deep\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\Users\adminvm.adminvm\Desktop\deep\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\Users\adminvm.adminvm\Desktop\deep\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.csprojAssemblyReference.cache
+C:\Users\adminvm.adminvm\Desktop\deep\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.AssemblyInfoInputs.cache
+C:\Users\adminvm.adminvm\Desktop\deep\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.AssemblyInfo.cs
+C:\Users\adminvm.adminvm\Desktop\deep\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.csproj.CoreCompileInputs.cache
+C:\Users\adminvm.adminvm\Desktop\deep\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\adminvm.adminvm\Desktop\deep\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\adminvm.adminvm\Desktop\deep\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.RazorTargetAssemblyInfo.cache
+C:\Users\adminvm.adminvm\Desktop\deep\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.csproj.CopyComplete
+C:\Users\adminvm.adminvm\Desktop\deep\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\staticwebassets\RecommendAPI.StaticWebAssets.Manifest.cache
+C:\Users\adminvm.adminvm\Desktop\deep\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\staticwebassets\RecommendAPI.StaticWebAssets.xml
+C:\Users\adminvm.adminvm\Desktop\deep\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.dll
+C:\Users\adminvm.adminvm\Desktop\deep\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.pdb
+C:\Users\adminvm.adminvm\Desktop\deep\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.genruntimeconfig.cache
+E:\Project Final\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Project Final\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Project Final\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Project Final\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\RecommendAPI.exe
+E:\Project Final\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\RecommendAPI.deps.json
+E:\Project Final\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\RecommendAPI.runtimeconfig.json
+E:\Project Final\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\RecommendAPI.runtimeconfig.dev.json
+E:\Project Final\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\RecommendAPI.dll
+E:\Project Final\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\RecommendAPI.pdb
+E:\Project Final\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\DnsClient.dll
+E:\Project Final\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Project Final\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Project Final\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Project Final\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Project Final\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Project Final\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Project Final\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Project Final\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Project Final\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Project Final\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Project Final\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\Project Final\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+E:\Project Final\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+E:\Project Final\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+E:\Project Final\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+E:\Project Final\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\SharpCompress.dll
+E:\Project Final\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\Project Final\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Project Final\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Project Final\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Project Final\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\Project Final\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Project Final\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+E:\Project Final\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+E:\Project Final\news-app\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+E:\Project Final\news-app\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.csprojAssemblyReference.cache
+E:\Project Final\news-app\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.AssemblyInfoInputs.cache
+E:\Project Final\news-app\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.AssemblyInfo.cs
+E:\Project Final\news-app\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.csproj.CoreCompileInputs.cache
+E:\Project Final\news-app\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\Project Final\news-app\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\Project Final\news-app\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.RazorTargetAssemblyInfo.cache
+E:\Project Final\news-app\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.csproj.CopyComplete
+E:\Project Final\news-app\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\staticwebassets\RecommendAPI.StaticWebAssets.Manifest.cache
+E:\Project Final\news-app\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\staticwebassets\RecommendAPI.StaticWebAssets.xml
+E:\Project Final\news-app\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.dll
+E:\Project Final\news-app\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.pdb
+E:\Project Final\news-app\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.genruntimeconfig.cache
+C:\Users\hp\Desktop\NewsApp\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\hp\Desktop\NewsApp\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\hp\Desktop\NewsApp\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\RecommendAPI.exe
+C:\Users\hp\Desktop\NewsApp\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\RecommendAPI.deps.json
+C:\Users\hp\Desktop\NewsApp\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\RecommendAPI.runtimeconfig.json
+C:\Users\hp\Desktop\NewsApp\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\RecommendAPI.runtimeconfig.dev.json
+C:\Users\hp\Desktop\NewsApp\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\RecommendAPI.dll
+C:\Users\hp\Desktop\NewsApp\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\RecommendAPI.pdb
+C:\Users\hp\Desktop\NewsApp\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\hp\Desktop\NewsApp\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\hp\Desktop\NewsApp\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hp\Desktop\NewsApp\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hp\Desktop\NewsApp\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hp\Desktop\NewsApp\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hp\Desktop\NewsApp\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hp\Desktop\NewsApp\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\hp\Desktop\NewsApp\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hp\Desktop\NewsApp\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\hp\Desktop\NewsApp\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\hp\Desktop\NewsApp\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\hp\Desktop\NewsApp\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\hp\Desktop\NewsApp\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\hp\Desktop\NewsApp\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\hp\Desktop\NewsApp\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\hp\Desktop\NewsApp\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\hp\Desktop\NewsApp\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hp\Desktop\NewsApp\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hp\Desktop\NewsApp\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hp\Desktop\NewsApp\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\hp\Desktop\NewsApp\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\hp\Desktop\NewsApp\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hp\Desktop\NewsApp\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\Users\hp\Desktop\NewsApp\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\Users\hp\Desktop\NewsApp\Recommend_API\RecommendAPI\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\Users\hp\Desktop\NewsApp\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\NewsApp\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\NewsApp\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.AssemblyInfo.cs
+C:\Users\hp\Desktop\NewsApp\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\NewsApp\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\Desktop\NewsApp\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Desktop\NewsApp\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\staticwebassets\RecommendAPI.StaticWebAssets.Manifest.cache
+C:\Users\hp\Desktop\NewsApp\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\staticwebassets\RecommendAPI.StaticWebAssets.xml
+C:\Users\hp\Desktop\NewsApp\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\RecommendAPI.styles.css
+C:\Users\hp\Desktop\NewsApp\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.RazorTargetAssemblyInfo.cache
+C:\Users\hp\Desktop\NewsApp\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.csproj.CopyComplete
+C:\Users\hp\Desktop\NewsApp\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.dll
+C:\Users\hp\Desktop\NewsApp\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.pdb
+C:\Users\hp\Desktop\NewsApp\Recommend_API\RecommendAPI\obj\Debug\netcoreapp3.1\RecommendAPI.genruntimeconfig.cache

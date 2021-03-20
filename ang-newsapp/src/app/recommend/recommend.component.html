@@ -1,0 +1,26 @@
+<div class="card mt-4">
+    <div class="row row-cols-md-4 g-4">
+      <div class="card border-info crdbg mt-4" style="width: 15rem; height: 450px;" *ngFor="let rec of Recommend">
+        <img src={{rec.urlToImage}} alt="Image" width="200px" height="200px">
+        <div class="card-body">
+          <h6>
+            <p>{{rec.title}}</p>
+          </h6>
+          <p>
+            {{rec.sourceName}}
+            <small class="text-muted">PublishTime: {{rec.publishedAt}}</small>
+          </p>
+         
+        </div>
+        <div class="card-footer">
+          <a href="{{rec.url}}" class="btn btn-primary float-right">Read more</a>
+          
+    
+          
+         
+  
+        </div>
+      </div>
+    </div>
+  </div>
+  

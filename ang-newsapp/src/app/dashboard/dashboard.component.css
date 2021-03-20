@@ -1,0 +1,24 @@
+.carousel-content {
+  position: absolute;
+  top: 35%;
+  bottom: 30%;
+  left: 5%;
+  color: white;
+}
+
+h1, #register {
+  text-align: center;
+}
+
+.d-inline-block {
+  border-radius: 4cm;
+}
+
+.navbar-brand {
+  color: white;
+}
+
+.register-btn {
+  border: solid rgb(73, 161, 190) 4px;
+  text-align: center;
+}

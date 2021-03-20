@@ -1,0 +1,86 @@
+<!-- <div class="bg-secondary">
+    <div class="card text-center" style="padding: 100px;">
+        <div class="card-header bg-primary">
+            <ul class="nav nav-tabs card-header-tabs">
+                <li class="nav-item ml-auto">
+                    <div class="btn-group " role="group" aria-label="Button group with nested dropdown">
+                        <div class="btn-group" role="group" style="padding-bottom: 11px;">
+                            <button id="btnGroupDrop1" type="button" class="btn btn-secondary dropdown-toggle" 
+                                data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                News By Category
+                            </button>
+                            <div class="dropdown-menu" aria-labelledby="btnGroupDrop1">
+                                <button class="dropdown-item" (click)="onBusiness()">Business</button>
+                                <button class="dropdown-item" (click)="onSports()">Sports</button>
+                                <button class="dropdown-item" (click)="onTechnology()">Technology</button>
+                                <button class="dropdown-item" (click)="onHealth()">Health</button>
+                                <button class="dropdown-item" (click)="onEntertainment()">Entertainment</button>
+                                <button class="dropdown-item" (click)="onScience()">Science</button>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+            </ul>
+        </div> -->
+<!-- <nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <div class="container-fluid"> 
+    <a class="navbar-brand" href="#">Navbar</a>
+              <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button> 
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav mr-auto mb-2 mb-lg-0">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" (click)="onBusiness()">Business</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" (click)="onSports()">Sports</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" (click)=" onHealth()">Health</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" (click)=" onTechnology()">Technology</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" (click)=" onEntertainment()">Entertainment</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" (click)="  onScience()">Science</a>
+        </li>
+      </ul>
+     
+    </div>
+  </div> 
+</nav> -->
+<div class="navbar bg-light">
+      
+  <a class="nav-link active" aria-current="page" (click)="onBusiness()">Business</a>
+  <a class="nav-link active" aria-current="page" (click)="onSports()">Sports</a>
+  <a class="nav-link active" aria-current="page" (click)=" onHealth()">Health</a>
+  <a class="nav-link active" aria-current="page" (click)=" onTechnology()">Technology</a>
+  <a class="nav-link active" aria-current="page" (click)=" onEntertainment()">Entertainment</a>
+  <a class="nav-link active" aria-current="page" (click)="  onScience()">Science</a>
+</div>
+<div class="row row-cols-md-4 g-4">
+  <div class="card border-info crdbg mt-4 " style="width: 18rem; height: 450px; " *ngFor="let article of mArticles">
+    <img src={{article.urlToImage}} alt="Image" width="200px" height="200px">
+    <div class="card-body">
+      <h6>
+        <p>{{article.title}}</p>
+      </h6>
+      <p>
+        {{article.source.name}}
+        <small class="text-muted">PublishTime: {{article.publishedAt}}</small>
+      </p>
+      
+    </div>
+    <div class="card-footer ">
+
+      <a href="{{article.url}}" class="btn btn-primary float-right">Read more</a>
+
+      <i class="fa fa-star-o fa-2x " style="padding-right: 20px;" (click)="onFav(article)" aria-hidden="true"> </i>
+      <i class="fa fa-thumbs-o-up fa-2x"  (click)="onRecommend(article)"  aria-hidden="true"></i>
+    </div>
+  </div>
+</div>

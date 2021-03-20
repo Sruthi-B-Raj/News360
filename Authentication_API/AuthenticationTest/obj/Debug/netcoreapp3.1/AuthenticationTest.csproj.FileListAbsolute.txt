@@ -1,0 +1,443 @@
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\xunit.runner.reporters.netcoreapp10.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\xunit.runner.utility.netcoreapp10.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\AuthenticationTest.deps.json
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\AuthenticationTest.runtimeconfig.json
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\AuthenticationTest.runtimeconfig.dev.json
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\AuthenticationTest.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\testhost.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\xunit.abstractions.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\xunit.assert.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\xunit.core.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\xunit.execution.dotnet.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\obj\Debug\netcoreapp3.1\AuthenticationTest.csprojAssemblyReference.cache
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\obj\Debug\netcoreapp3.1\AuthenticationTest.AssemblyInfoInputs.cache
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\obj\Debug\netcoreapp3.1\AuthenticationTest.AssemblyInfo.cs
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\obj\Debug\netcoreapp3.1\AuthenticationTest.csproj.CopyComplete
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\obj\Debug\netcoreapp3.1\AuthenticationTest.genruntimeconfig.cache
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\appsettings.json
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Authentication_API.exe
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Castle.Core.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Moq.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Authentication_API.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Authentication_API.pdb
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\AuthenticationTest.pdb
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\obj\Debug\netcoreapp3.1\AuthenticationTest.csproj.CoreCompileInputs.cache
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\obj\Debug\netcoreapp3.1\AuthenticationTest.dll
+E:\xxxxxx\news-app\Authentication_API\AuthenticationTest\obj\Debug\netcoreapp3.1\AuthenticationTest.pdb
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\xunit.runner.reporters.netcoreapp10.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\xunit.runner.utility.netcoreapp10.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Authentication_API.exe
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\AuthenticationTest.deps.json
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\AuthenticationTest.runtimeconfig.json
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\AuthenticationTest.runtimeconfig.dev.json
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\AuthenticationTest.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\AuthenticationTest.pdb
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Castle.Core.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\testhost.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Moq.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\xunit.abstractions.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\xunit.assert.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\xunit.core.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\xunit.execution.dotnet.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Authentication_API.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Authentication_API.pdb
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\obj\Debug\netcoreapp3.1\AuthenticationTest.csprojAssemblyReference.cache
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\obj\Debug\netcoreapp3.1\AuthenticationTest.AssemblyInfoInputs.cache
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\obj\Debug\netcoreapp3.1\AuthenticationTest.AssemblyInfo.cs
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\obj\Debug\netcoreapp3.1\AuthenticationTest.csproj.CoreCompileInputs.cache
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\obj\Debug\netcoreapp3.1\AuthenticationTest.csproj.CopyComplete
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\obj\Debug\netcoreapp3.1\AuthenticationTest.dll
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\obj\Debug\netcoreapp3.1\AuthenticationTest.pdb
+E:\Project Final\news-app\Authentication_API\AuthenticationTest\obj\Debug\netcoreapp3.1\AuthenticationTest.genruntimeconfig.cache
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\xunit.runner.reporters.netcoreapp10.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\xunit.runner.utility.netcoreapp10.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Authentication_API.exe
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\AuthenticationTest.deps.json
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\AuthenticationTest.runtimeconfig.json
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\AuthenticationTest.runtimeconfig.dev.json
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\AuthenticationTest.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\AuthenticationTest.pdb
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Castle.Core.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\testhost.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Moq.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\xunit.abstractions.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\xunit.assert.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\xunit.core.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\xunit.execution.dotnet.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Authentication_API.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\bin\Debug\netcoreapp3.1\Authentication_API.pdb
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\obj\Debug\netcoreapp3.1\AuthenticationTest.csprojAssemblyReference.cache
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\obj\Debug\netcoreapp3.1\AuthenticationTest.AssemblyInfoInputs.cache
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\obj\Debug\netcoreapp3.1\AuthenticationTest.AssemblyInfo.cs
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\obj\Debug\netcoreapp3.1\AuthenticationTest.csproj.CoreCompileInputs.cache
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\obj\Debug\netcoreapp3.1\AuthenticationTest.csproj.CopyComplete
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\obj\Debug\netcoreapp3.1\AuthenticationTest.dll
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\obj\Debug\netcoreapp3.1\AuthenticationTest.pdb
+F:\Capstone Project\NewsAppProj\Authentication_API\AuthenticationTest\obj\Debug\netcoreapp3.1\AuthenticationTest.genruntimeconfig.cache

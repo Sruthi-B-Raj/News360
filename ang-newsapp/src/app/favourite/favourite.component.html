@@ -1,0 +1,25 @@
+<div class="card mt-4">
+  <div class="row row-cols-md-4 g-4">
+    <div class="card border-info crdbg mt-4" style="width: 15rem; height: 450px;" *ngFor="let fav of Favourite">
+      <img src={{fav.urlToImage}} alt="Image" width="200px" height="200px">
+      <div class="card-body">
+        <h6>
+          <p>{{fav.title}}</p>
+        </h6>
+        <p>
+          {{fav.sourceName}}
+          <small class="text-muted">PublishTime: {{fav.publishedAt}}</small>
+        </p>
+       
+      </div>
+      <div class="card-footer">
+        <a href="{{fav.url}}" class="btn btn-primary float-right">Read more</a>
+        <i class="fa fa-trash-o" (click)="delete(fav.title)" aria-hidden="true" style="padding-right: 20px;"></i>
+        <!-- <i class="fa fa-star-o fa-2x"  aria-hidden="true"></i> -->
+        <i class="fa fa-thumbs-o-up fa-2x" aria-hidden="true"></i> 
+       
+
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,34 @@
+<div class="container " id="search">
+  <div class="row" style="margin-top: 70px;">
+    <div class="col-3"></div>
+    <div class="input-group mb-3 col-lg-6 col-md-6 col-sm-4 col-xs-2">
+      <input id="searchInput" type="text" class="form-control" [(ngModel)]="search"
+        placeholder="Enter your text to search" aria-label="Recipient's username" aria-describedby="button-addon2">
+      <div class="input-group-append">
+        <button class="btn btn-outline-primary" type="button" id="button-addon2" (click)="searchNews()">Search</button>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="row row-cols-md-4 g-4">
+  <div class="card border-info crdbg mt-4 " style="width: 18rem; height: 450px; " *ngFor="let article of articles">
+    <img src={{article.urlToImage}} alt="Image" width="200px" height="200px">
+    <div class="card-body">
+      <h6>
+        <p>{{article.title}}</p>
+      </h6>
+      <p>
+        {{article.source.name}}
+        <small class="text-muted">PublishTime: {{article.publishedAt}}</small>
+      </p>
+      
+    </div>
+    <div class="card-footer ">
+
+      <a href="{{article.url}}" class="btn btn-primary float-right">Read more</a>
+
+      <i class="fa fa-star-o fa-2x" style="padding-right: 20px;" (click)="onFav(article)" aria-hidden="true"> </i>
+      <i class="fa fa-thumbs-o-up fa-2x" aria-hidden="true"></i>
+    </div>
+  </div>
+</div>
